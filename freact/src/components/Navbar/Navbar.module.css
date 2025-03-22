@@ -1,0 +1,22 @@
+.nav{
+  grid-area: na;
+  background-color: blueviolet;
+  padding: 15px;
+}
+
+.item {
+  color: white
+}
+
+.item a {
+  color: rgb(245, 245, 245);
+  text-decoration: none;
+}
+
+.item a:hover{
+  color: gold;
+  background-color: brown;
+  border-radius: 7px;
+}
+
+
